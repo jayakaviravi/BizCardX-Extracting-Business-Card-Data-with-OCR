@@ -40,6 +40,8 @@ card image and extracting its information.
 ### Implement the image processing and OCR
 Using  easyOCR  library to extract the
 relevant information from the uploaded business card image.
+![Screenshot (18)](https://github.com/jayakaviravi/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/156929580/b8aa59fe-6bf0-41c8-b861-1dadff8d4f35)
+
 
 ### Data Extraction
 Once the information has been extracted,
@@ -50,7 +52,6 @@ Using  a database management system  MySQL to store the extracted information al
 and retrieve data from the database, Update the data and Allow the user to
 delete the data through the streamlit UI.
 
-![Screenshot (18)](https://github.com/jayakaviravi/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/156929580/b8aa59fe-6bf0-41c8-b861-1dadff8d4f35)
 ![Screenshot (20)](https://github.com/jayakaviravi/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/156929580/c6549a93-68e6-456f-ba3e-20a232873cc6)
 ![Screenshot (22)](https://github.com/jayakaviravi/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/156929580/4b6dcc08-66a6-4cf9-96c7-23e7e67a39b7)
 
