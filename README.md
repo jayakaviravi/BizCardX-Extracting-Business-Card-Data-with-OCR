@@ -51,6 +51,7 @@ and retrieve data from the database, Update the data and Allow the user to
 delete the data through the streamlit UI.
 
 ![Screenshot (18)](https://github.com/jayakaviravi/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/156929580/b8aa59fe-6bf0-41c8-b861-1dadff8d4f35)
+![Screenshot (20)](https://github.com/jayakaviravi/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/156929580/c6549a93-68e6-456f-ba3e-20a232873cc6)
 
 
 
