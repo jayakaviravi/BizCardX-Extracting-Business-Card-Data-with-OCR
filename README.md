@@ -8,6 +8,9 @@ BizCardX: Extracting Business Card Data with OCR Overview BizCardX is a Streamli
 
 EasyOCR is an open-source Optical Character Recognition (OCR) engine that makes it easy to extract text from images. OCR is a technology that converts different types of documents, such as scanned paper documents, PDFs, or images captured by a digital camera, into editable and searchable data. 
 
+![Screenshot (16)](https://github.com/jayakaviravi/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/156929580/35728f61-b73c-444e-9342-e61f942df75d)
+
+
 ### Technologies
 
 1. OCR
@@ -46,6 +49,8 @@ display it in a clean and organized manner in the Streamlit GUI.
 Using  a database management system  MySQL to store the extracted information along with the uploaded business card image.Using  SQL queries to create tables, insert data,
 and retrieve data from the database, Update the data and Allow the user to
 delete the data through the streamlit UI.
+
+
 
 
 
